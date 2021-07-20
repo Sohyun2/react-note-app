@@ -1,0 +1,17 @@
+.note-template {
+    background-color: #f1f3f5;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 400px;
+    margin: auto;
+    border-radius: 30px;
+    height: 600px;
+}
+
+.note-title{
+    font-size: 1.8rem;
+    font-weight: bold;
+    text-align: center;
+    padding: 20px 5px 0px 5px;
+    font-family: consolas;
+    height: 10%;
+  }

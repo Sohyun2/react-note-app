@@ -1,0 +1,16 @@
+.search-form-template {
+    margin-bottom: 15px;
+}
+
+.search-form-type{
+    width: 100px !important
+}
+
+.search-form-input {
+    /* margin-left: 5px; */
+    width: 360px !important;
+}
+
+.search-form-button {
+    margin-left: 5px;
+}

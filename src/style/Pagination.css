@@ -1,0 +1,13 @@
+.note-pagination-numbering span{
+    /* color: aqua; */
+}
+
+.note-pagination-numbering span:hover{
+    font-weight: bold;
+    color: black;
+}
+
+.note-pagination-numbering {
+    margin-left: 2px;
+    padding: 1px 1px;
+}

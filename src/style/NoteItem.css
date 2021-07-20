@@ -1,0 +1,22 @@
+.note-item-template{
+    background-color: white;
+    margin: 0px 0px 15px 0px;
+    border: 1px solid #adb5bd;
+    border-radius: 5px;
+}
+
+.note-item-title {
+    font-size: 1rem;
+    font-weight: bold;
+    text-align: left;
+    padding: 5px 0px 5px 10px;
+    font-family: consolas;
+}
+
+.note-item-content {
+    font-size: 0.8rem;
+    text-align: left;
+    padding: 5px 0px 5px 10px;
+    font-family: consolas;
+    color: gray;
+}

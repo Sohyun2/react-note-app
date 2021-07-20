@@ -1,0 +1,10 @@
+
+.note-main-form{
+    margin: 5% 5% 0% 5%;
+    height: 80%;
+}
+
+.note-main-bottom {
+    display: flex;
+    justify-content:space-between;
+}
